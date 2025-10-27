@@ -82,8 +82,11 @@ Navigate to [http://localhost:5000](http://localhost:5000) to access the applica
 
 ## Screenshots
 
-_Add screenshots of your application’s working interface and results here_
+![Screenshot 1](screenshots/image.png)
 
+![Screenshot 2](screenshots/image2.png)
+
+![Setup Screenshot](screenshots/setup.png)
 ---
 
 
